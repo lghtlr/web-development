@@ -1,0 +1,77 @@
+/* селекторы тегов */
+body {
+  color: #000000c4;
+  background: #efedf7;
+}
+
+a {
+  text-align: center;
+  color: #000000c4;
+  font-size: 19px;
+  font-weight: 300;
+  font-style: oblique;
+}
+
+li {
+  font-size: 15px;
+  font-style: oblique;
+  line-height: 30px;
+  list-style-image: url("../images/heart.png");
+}
+
+h1,
+h3 {
+  text-align: center;
+  font-style: oblique;
+}
+
+h4 {
+  text-align: center;
+}
+
+/* селекторы классов */
+.border {
+  border: 1px dashed #b7b1e0;
+}
+
+.catalog_header {
+  color: #000000c4;
+  font-size: 18px;
+  font-weight: 400;
+  background: #f2daed;
+  text-align: center;
+}
+
+.catalog_description {
+  color: #000000c4;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.row {
+  display: inline-block;
+  margin: 20px;
+  text-align: center;
+}
+
+.image_preview {
+  width: 156px;
+  height: 124px;
+}
+
+.image_course {
+  width: 250px;
+  height: 198px;
+}
+
+.image_course_align {
+  text-align: center;
+}
+
+/* селекторы идентификаторов */
+#first {
+  background: #e2dff5;
+  text-align: center;
+}
