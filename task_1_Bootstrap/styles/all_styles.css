@@ -1,0 +1,25 @@
+a {
+  text-align: center;
+  font-weight: 300;
+  font-style: oblique;
+}
+
+li {
+  font-size: 15px;
+  font-style: oblique;
+  line-height: 30px;
+  list-style-image: url("../images/heart.png");
+}
+
+.image_course {
+  width: 250px;
+  height: 198px;
+}
+
+#small-font-size {
+  font-size: 13px;
+}
+
+#first {
+  background: #e2dff5;
+}
